@@ -1,0 +1,22 @@
+{
+  "name": "password-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranay221/Password-Validator.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Pranay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranay221/Password-Validator/issues"
+  },
+  "homepage": "https://github.com/Pranay221/Password-Validator#readme"
+}
